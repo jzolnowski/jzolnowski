@@ -71,6 +71,10 @@ I’m proud to be a Mentor in the [Angular Space](https://www.angularspace.com/)
 
 I'm one of the organizers of the [Angular Toronto Meetup](https://guild.host/angular-toronto/members),where we gather developers, Angular enthusiasts, and pros to learn, share insights, and discuss the latest trends in Angular. Our events include talks, workshops, and community discussions, fostering a space where everyone can connect and grow. If you’re into Angular, this meetup is the place to be!
 
+- 🎙️ Evolving Architecture 📅 2025.05.01
+
+  Angular gives you a lot out of the box - but making it scale is up to you. In this talk, we’ll start with a basic feature module and evolve it step-by-step: introducing sub-modules, domains, and ports & adapters to create clear boundaries. We’ll discuss when Micro Frontends make sense and how they can support large teams and codebases. To keep everything in check, we’ll use Sheriff to enforce architecture rules and prevent unwanted dependencies - because scaling code shouldn’t mean scaling chaos.
+
 - 🎙️ [How Angular Keeps Your UI in Sync](https://www.linkedin.com/posts/ayoubghozzi_angular-angulartoronto-meetup-activity-7285798688294154240-lLQU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUyrvABz1GFMiKJQfxCA-soseGuwuR07o0) 📅 2025.01.16
 
   Discover how Angular's change detection mechanism keeps your UI in sync. We'll explore different change detection strategies, delve into the world of signals, and the potential of zoneless apps to improve performance and developer experience.
@@ -93,7 +97,7 @@ I’ve had the pleasure of speaking at conferences, meetups and GDG events world
 
 - 🎙️ **Angular.love Spring Camp** 📅 2025.04.15
 
-  [Lazy, but Fast: How Taking It Slow Can Speed Up Your App!](https://meetup.angular.love/spring-camp-2025/?utm_source=linkedin&utm_medium=newsfeed&utm_campaign=angularspringcamp25&utm_term=meetup1) - Who said being lazy is a bad thing? In this talk, I’ll show how being lazy can actually make your app super fast! I’ll explore some tricks that let you offload work until it’s actually needed.
+  [Lazy, but Fast: How Taking It Slow Can Speed Up Your App!](https://www.youtube.com/watch?v=Ygnx8eH4acg&ab_channel=AngularLove) - Who said being lazy is a bad thing? In this talk, I’ll show how being lazy can actually make your app super fast! I’ll explore some tricks that let you offload work until it’s actually needed.
 
 
 - 🎙️ **ngLodz** 📅 2025.03.26
